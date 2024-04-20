@@ -1,0 +1,683 @@
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.dll.config
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.pdb
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\csc.exe
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\csc.exe.config
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\csc.rsp
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\csi.exe
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\csi.exe.config
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\csi.rsp
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Console.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\vbc.exe
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\vbc.rsp
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Owin.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.Helpers.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.Mvc.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.Optimization.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.Razor.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\WebGrease.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.Helpers.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.Mvc.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.Optimization.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.Razor.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CopyComplete
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.dll.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\csc.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\csc.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\csc.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\csi.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\csi.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\csi.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Console.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\vbc.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\vbc.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.Bll.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.Helpers.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.Mvc.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.Optimization.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.Razor.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\WebGrease.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.Bll.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.Helpers.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.Mvc.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.Optimization.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.Razor.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CopyComplete
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.dll.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.WebApp.dll.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.WebApp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.WebApp.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csc.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csc.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csc.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csi.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csi.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csi.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Console.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\vbc.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\vbc.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Bll.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Helpers.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Mvc.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Optimization.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Razor.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\WebGrease.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Bll.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Helpers.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Mvc.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Optimization.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Razor.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Dal.dll.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CopyComplete
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les05\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.pdb
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.WebApp.dll.config
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.WebApp.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.WebApp.pdb
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csc.exe
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csc.exe.config
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csc.rsp
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csi.exe
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csi.exe.config
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\csi.rsp
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.AppContext.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Console.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.IO.Compression.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Net.Http.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Net.Sockets.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.ValueTuple.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\vbc.exe
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\vbc.exe.config
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\vbc.rsp
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Antlr3.Runtime.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\EntityFramework.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\EntityFramework.SqlServer.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Newtonsoft.Json.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Owin.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Bll.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Entities.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Helpers.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Mvc.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Optimization.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Razor.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.Razor.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\WebGrease.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Dal.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Bll.pdb
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Entities.pdb
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Helpers.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Mvc.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Optimization.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.Razor.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\System.Web.WebPages.Razor.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Newtonsoft.Json.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Antlr3.Runtime.pdb
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\EntityFramework.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\EntityFramework.SqlServer.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Dal.pdb
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\bin\SportsClub.Dal.dll.config
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.AssemblyReference.cache
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CoreCompileInputs.cache
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CopyComplete
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.dll.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\csc.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\csc.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\csc.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\csi.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\csi.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\csi.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Console.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\vbc.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\vbc.rsp
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Owin.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.Bll.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.Helpers.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.Mvc.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.Optimization.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.Razor.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\WebGrease.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.Bll.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.Helpers.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.Mvc.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.Optimization.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.Razor.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.dll.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CopyComplete
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.pdb
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.dll.config
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.WebApp.pdb
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\csc.exe
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\csc.exe.config
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\csc.rsp
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\csi.exe
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\csi.exe.config
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\csi.rsp
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.AppContext.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Console.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.Compression.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Net.Http.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Net.Sockets.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.ValueTuple.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\vbc.exe
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\vbc.exe.config
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\vbc.rsp
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Antlr3.Runtime.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\EntityFramework.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\EntityFramework.SqlServer.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Newtonsoft.Json.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Owin.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.Bll.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.Entities.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.Helpers.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.Mvc.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.Optimization.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.Razor.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Razor.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\WebGrease.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.Bll.pdb
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.Entities.pdb
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.Helpers.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.Mvc.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.Optimization.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.Razor.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\System.Web.WebPages.Razor.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Newtonsoft.Json.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Antlr3.Runtime.pdb
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\EntityFramework.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\EntityFramework.SqlServer.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.pdb
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\bin\SportsClub.Dal.dll.config
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.AssemblyReference.cache
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CoreCompileInputs.cache
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.csproj.CopyComplete
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.WebApp\obj\Debug\SportsClub.WebApp.pdb

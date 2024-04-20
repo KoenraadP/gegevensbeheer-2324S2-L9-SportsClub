@@ -1,0 +1,36 @@
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.pdb
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.Entities\bin\Debug\SportsClub.Entities.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.Entities\bin\Debug\SportsClub.Entities.pdb
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.AssemblyReference.cache
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.CoreCompileInputs.cache
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.Entities\obj\Debug\SportsClub.Entities.dll
+D:\gegevensbeheer_2324_sem2\L6\prep\gegevensbeheer-2324S2-L5\SportsClub.Entities\obj\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les06\gegevensbeheer-2324S2-L6-SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.pdb
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.Entities\bin\Debug\SportsClub.Entities.pdb
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.AssemblyReference.cache
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.csproj.CoreCompileInputs.cache
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.dll
+D:\gegevensbeheer_2324_sem2\L9\gegevensbeheer-2324S2-L8-SportsClub\SportsClub.Entities\obj\Debug\SportsClub.Entities.pdb
